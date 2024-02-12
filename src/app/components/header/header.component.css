@@ -1,0 +1,10 @@
+.links-wrapper{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: rgb(222, 207, 222);
+}
+
+.link{
+    font-size: 20px;
+}
